@@ -1,0 +1,5 @@
+function [x,Ta] = Inv_Espetro(X,f)
+    X = 
+    f/Fa/N = f = (0:N-1)*(Fa/N)-(Fa/2);
+end
+

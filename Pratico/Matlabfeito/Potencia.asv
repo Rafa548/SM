@@ -1,0 +1,5 @@
+function [p] = potencia(x,Ta,T)
+p = x * x' ;
+res = p/lenght(x);
+end
+

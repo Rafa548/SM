@@ -1,0 +1,7 @@
+function [res] = Taylor(N,x)
+%TAYLOR Summary of this function goes here
+%   Detailed explanation goes here
+for h = 1:N
+    res = res + (x^N/factorial(N));
+end
+
